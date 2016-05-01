@@ -1,0 +1,28 @@
+name: robertlarsson
+favicon: null
+layout_spectrum: 0.5140169665683061
+typography_spectrum: 0.7400594432838261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.26580380741506815
+  lightness: 0.4486385507043451
+  saturation: 0.7576649305410683
+  rhythmicContrast: 0.731631604488939
+purpose: []
